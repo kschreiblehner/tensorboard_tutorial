@@ -13,6 +13,6 @@ Das Material in diesem Git-Verzeichnis gehört zum Tutorial Grundlagen in Tensor
 
 ## Hinweise
 
-Die Übungen können in einem Docker-Container mit einem Jupyter-Notebook durchgeführt werden. Dazu muss am Ende Ende des Docker-Abbilds der String '-jupyter' angefügt werden.
+Die Übungen können in einem Docker-Container mit einem Jupyter-Notebook durchgeführt werden. Dazu muss am Ende des Docker-Abbilds der String '-jupyter' angefügt werden.
 
 Beispiel: tensorflow/tensorflow:latest-jupyter
